@@ -12,4 +12,4 @@ Dataset
 
 ## Scope of this work
 
-This project aims to find similar characteristics between different clients and grouping them into coherent clusters, using the k-means clustering algorithm. The clustering results will then be compared to the exhisting ACORN classification of each clients to verify if the different classification successfully translate to a different load consumption.
+This project aims to find similar characteristics between different clients and grouping them into coherent clusters, using the k-means clustering algorithm. The clustering results will then be compared to the existing ACORN classification of each client to verify if the different classification successfully translate to a different load consumption.
